@@ -13,9 +13,8 @@ Cocoa::DictionaryServices is ...
 
 # FUNCTIONS
 
-## `lookup($word, [$dictionary])`
-
-## `available_dictionaries()`
+- `lookup($word, [$dictionary])`
+- `available_dictionaries()`
 
 # LICENSE
 

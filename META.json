@@ -54,5 +54,16 @@
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/akiym/Cocoa-DictionaryServices/issues"
+      },
+      "homepage" : "https://github.com/akiym/Cocoa-DictionaryServices",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/akiym/Cocoa-DictionaryServices.git",
+         "web" : "https://github.com/akiym/Cocoa-DictionaryServices"
+      }
+   },
    "version" : "0.01"
 }

@@ -31,9 +31,13 @@ Cocoa::DictionaryServices is ...
 
 =head1 FUNCTIONS
 
-=head2 C<< lookup($word, [$dictionary]) >>
+=over 4
 
-=head2 C<< available_dictionaries() >>
+=item C<< lookup($word, [$dictionary]) >>
+
+=item C<< available_dictionaries() >>
+
+=back
 
 =head1 LICENSE
 
